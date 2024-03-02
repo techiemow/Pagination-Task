@@ -1,4 +1,4 @@
-# DOM- Day -3: Recap of Topics - TASK
+# DOM- Day -3: Recap of Topics - TASK(a)
 
 - I chose the **pagination** task.    
 - The task is completed and all the codes are present in this file     
